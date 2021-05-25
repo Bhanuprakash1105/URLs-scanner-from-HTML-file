@@ -1,6 +1,6 @@
 # URLs-scanner-from-HTML-file
 
-### This is a C++ program for extracting all the URLs present in the given HTML files or text file.
+### This is a C++ program for extracting the scheme and domain name part of all the URLs present in the given HTML files or text files.
 
 The "main.cpp" is the only file necessary for running the program, the rest of the files are just input files that can be given as input for the code, and sample images are also provided for better understanding.
 
